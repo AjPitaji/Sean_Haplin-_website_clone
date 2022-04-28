@@ -1,0 +1,187 @@
+* {
+  margin: 0;
+
+}
+
+.tc {
+  background-color: rgb(225, 235, 233);
+  position: relative;
+  padding-top: 100px;
+  /* border: solid 10px; */
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+   cursor: url("D:\prg\HTML\web dev\cursor.png"), auto;
+}
+
+.mc {
+  background-color: #070739;
+  width: 200px;
+  height: 200px;
+}
+
+.bc {
+  background-color: #9A0680;
+  width: 200px;
+  height: 200px;
+}
+
+span {
+  color: cyan;
+  font-size: 90px;
+}
+
+.mountain {
+  position: relative;
+  bottom: 0;
+  padding-top: 80px;
+}
+
+h2 {
+  font-family: Montserrat, serif;
+  color: rgb(74, 177, 154);
+  font-size: 50px;
+}
+
+h3 {
+  font-family: Montserrat, serif;
+  color: rgb(74, 177, 154);
+  font-size: 30px;
+}
+
+.heading {
+  display: inline-block;
+  color: rgb(74, 177, 154);
+  padding-bottom: 10px;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+}
+
+#cloud1 {
+  position: absolute;
+  right: 25%;
+  width: 10%;
+  top: 45%;
+}
+
+#cloud2 {
+  position: absolute;
+  width: 10%;
+  top: 30%;
+}
+
+.subheading {
+  color: rgb(74, 177, 154);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2.5;
+  /* background-color: #FFFFFF; */
+}
+
+.profile-pic {
+  height: 20%;
+  width: 20%;
+  border: 10px;
+}
+
+.dev {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  top: 10px
+}
+
+.movie {
+  width: 30%;
+  float: right;
+  margin-left: 10px;
+}
+
+.middle-container {
+  background-color: #FFFEFE;
+}
+
+.bottom-container {
+  background-color: #C5DED7;
+}
+
+.footer-link {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: #45b29a;
+  font-size: 1.5em;
+  margin: 50px;
+}
+
+.description {
+  line-height: 3;
+  margin-top: 10px;
+}
+
+hr {
+  border-style: dotted;
+  width: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-top: 0;
+  border-width: 5px;
+  border-color:  rgb(225, 235, 233);
+}
+
+.contact-me h2
+{
+  margin-bottom: 30px;
+}
+.contact-me h3
+{
+  margin-bottom: 30px;
+}
+.mail
+{
+  margin-bottom: 50px
+}
+.navbar
+{
+  background-color: rgb(225, 235, 233);
+
+}
+.navbar img
+{
+  position: absolute;
+  left:100px;
+  margin-left:400px;
+  display: inline-block;
+  margin-top: 50px;
+  z-index: 7;
+
+}
+.navbar h4
+{
+  display: inline-block;
+  margin-top: 70px;
+  position: relative;
+  left: 300px;
+  padding-left: 20px;
+  color: #45b29a;
+  font-family: Montserrat,serif;
+}
+p{
+    font-family: Montserrat,serif;
+}
+
+/* src="https://web.archive.org/web/20180819202235/http://seanhalpin.io/assets/img/content/home/masthead/land.svg" */
